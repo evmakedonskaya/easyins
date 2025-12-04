@@ -1,0 +1,14 @@
+[2025-11-25 15:45:32 : INFO] - Re_Smush_It_Task with attachment ID : 7839, auto created on : November 25, 2025 03:45:32 
+[2025-11-25 15:51:19 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-11-25 15:51:19 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-25 15:51:19 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-25 15:51:19 : INFO] - Processing task with ID : 2451, and type 'smush' 
+[2025-11-25 15:51:19 : INFO] - Re_Smush_It_Task with attachment ID : 7839, auto created on : November 25, 2025 03:45:32 
+[2025-11-25 15:51:19 : INFO] - File: logo-easyins-1.png, Compression quality: 92 
+[2025-11-25 15:51:22 : INFO] - Backing up the original image - 2025/11/logo-easyins-1-updraft-pre-smush-original.png 
+[2025-11-25 15:51:22 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins/public_html/wp-content/uploads/2025/11/logo-easyins-1.png.The file was compressed from 769 bytes to 769 bytes, saving 0 percent, using WP-Optimize 
+[2025-11-25 15:51:22 : INFO] - Completed processing task with ID : 2451, and type 'smush' 
+[2025-11-25 15:51:22 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-25 15:51:22 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-11-25 15:51:22 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-25 15:51:22 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 

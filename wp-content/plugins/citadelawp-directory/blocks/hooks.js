@@ -1,0 +1,1 @@
+const{addFilter}=wp.hooks;addFilter("blocks.registerBlockType","citadela-directory/disable-reusable-setting",(function(t,e){return void 0===t.supports&&(t.supports={}),t})),addFilter("citadela.JSstripHtml","citadela-directory/directory-hooks",(t=>{var e=document.createElement("div");return e.innerHTML=t,e.textContent}));

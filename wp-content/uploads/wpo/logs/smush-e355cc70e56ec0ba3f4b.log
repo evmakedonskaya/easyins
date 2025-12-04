@@ -1,0 +1,39 @@
+[2025-11-18 02:12:50 : INFO] - Re_Smush_It_Task server status: Online 
+[2025-11-18 02:12:50 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2025-11-18 02:12:50 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-18 02:12:50 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-18 02:12:50 : INFO] - Processing task with ID : 4882, and type 'smush' 
+[2025-11-18 02:12:50 : INFO] - Re_Smush_It_Task - Attachment ID : 6256, Started on : November 18, 2025 02:12:50 
+[2025-11-18 02:12:50 : INFO] - File: ellipse-bg.png, Compression quality: 92 
+[2025-11-18 02:12:51 : INFO] - Backing up the original image - 2020/08/ellipse-bg-updraft-pre-smush-original.png 
+[2025-11-18 02:12:54 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins/public_html/wp-content/uploads/2020/08/ellipse-bg.png.The file was compressed from 8.73 KB to 5.28 KB, saving 39.5 percent, using WP-Optimize 
+[2025-11-18 02:12:54 : INFO] - Completed processing task with ID : 4882, and type 'smush' 
+[2025-11-18 02:12:54 : INFO] - Processing task with ID : 4883, and type 'smush' 
+[2025-11-18 02:12:54 : INFO] - Re_Smush_It_Task - Attachment ID : 6300, Started on : November 18, 2025 02:12:50 
+[2025-11-18 02:12:54 : INFO] - File: squares-bg-opt.png, Compression quality: 92 
+[2025-11-18 02:12:55 : INFO] - Backing up the original image - 2020/08/squares-bg-opt-updraft-pre-smush-original.png 
+[2025-11-18 02:13:01 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins/public_html/wp-content/uploads/2020/08/squares-bg-opt.png.The file was compressed from 7.77 KB to 7.77 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 02:13:01 : INFO] - Completed processing task with ID : 4883, and type 'smush' 
+[2025-11-18 02:13:01 : INFO] - Processing task with ID : 4884, and type 'smush' 
+[2025-11-18 02:13:01 : INFO] - Re_Smush_It_Task - Attachment ID : 6305, Started on : November 18, 2025 02:12:50 
+[2025-11-18 02:13:01 : INFO] - File: bck-waves-opt.png, Compression quality: 92 
+[2025-11-18 02:13:02 : INFO] - Backing up the original image - 2019/11/bck-waves-opt-updraft-pre-smush-original.png 
+[2025-11-18 02:13:02 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins/public_html/wp-content/uploads/2019/11/bck-waves-opt.png.The file was compressed from 665 bytes to 665 bytes, saving 0 percent, using WP-Optimize 
+[2025-11-18 02:13:02 : INFO] - Completed processing task with ID : 4884, and type 'smush' 
+[2025-11-18 02:13:02 : INFO] - Processing task with ID : 4885, and type 'smush' 
+[2025-11-18 02:13:02 : INFO] - Re_Smush_It_Task - Attachment ID : 6306, Started on : November 18, 2025 02:12:50 
+[2025-11-18 02:13:02 : INFO] - File: bck-waves2-opt.png, Compression quality: 92 
+[2025-11-18 02:13:03 : INFO] - Backing up the original image - 2019/11/bck-waves2-opt-updraft-pre-smush-original.png 
+[2025-11-18 02:13:03 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins/public_html/wp-content/uploads/2019/11/bck-waves2-opt.png.The file was compressed from 640 bytes to 640 bytes, saving 0 percent, using WP-Optimize 
+[2025-11-18 02:13:03 : INFO] - Completed processing task with ID : 4885, and type 'smush' 
+[2025-11-18 02:13:03 : INFO] - Processing task with ID : 4886, and type 'smush' 
+[2025-11-18 02:13:03 : INFO] - Re_Smush_It_Task - Attachment ID : 6329, Started on : November 18, 2025 02:12:50 
+[2025-11-18 02:13:03 : INFO] - File: ctdl-listing-plugin-opt.jpg, Compression quality: 92 
+[2025-11-18 02:13:05 : INFO] - Backing up the original image - ctdl-listing-plugin-opt-updraft-pre-smush-original.jpg 
+[2025-11-18 02:13:09 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins/public_html/wp-content/uploads/ctdl-listing-plugin-opt.jpg.The file was compressed from 39.05 KB to 39.05 KB, saving 0 percent, using WP-Optimize 
+[2025-11-18 02:13:09 : INFO] - Completed processing task with ID : 4886, and type 'smush' 
+[2025-11-18 02:13:09 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-18 02:13:09 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2025-11-18 02:13:09 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-11-18 02:13:09 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2025-11-18 04:13:18 : INFO] - Pruning the smush log file 

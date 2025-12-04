@@ -1,0 +1,659 @@
+# Copyright (C) 2021 Wpshop
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ABC Pagination\n"
+"POT-Creation-Date: 2024-10-03 09:29+0300\n"
+"PO-Revision-Date: 2021-03-13 23:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: WPShop.ru <support@wpshop.biz>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx;esc_html__;"
+"esc_html_e;esc_html_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: vendor/wpshop\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+"X-Poedit-SearchPathExcluded-3: vendor/wpshop/wpshop-settings/template-"
+"parts\n"
+"X-Poedit-SearchPathExcluded-4: resources\n"
+
+#: _i18n.php:3
+msgid "Alphabetical index for WordPress."
+msgstr ""
+
+#: src/Admin/MenuPage.php:35 src/Admin/MenuPage.php:36
+msgid "ABC Pagination"
+msgstr ""
+
+#: src/Admin/MetaBoxes.php:45
+msgid "ABC Pagination Options"
+msgstr ""
+
+#: src/Admin/MetaBoxes.php:50 src/Admin/PostGrid.php:30
+#: src/Admin/PostGrid.php:36
+msgid "Short Title"
+msgstr ""
+
+#: src/Admin/Presets.php:206
+msgid "Unable to save preset with empty data"
+msgstr ""
+
+#: src/Admin/Settings.php:184 src/functions.php:66
+#: template-parts/admin/settings/tab-settings.php:28
+msgid "Settings"
+msgstr ""
+
+#: src/Admin/Settings.php:185
+#: template-parts/admin/settings/tab-appearance.php:35
+msgid "Appearance"
+msgstr ""
+
+#: src/Admin/Settings.php:186 template-parts/admin/settings/tab-css.php:21
+msgid "Additional styles"
+msgstr ""
+
+#: src/Admin/Settings.php:245
+#: vendor/wpshop/wpshop-settings/src/AbstractSettings.php:167
+msgid ""
+"Sorry, you are not allowed to modify unregistered settings for this site."
+msgstr ""
+
+#: src/Ajax.php:26
+msgid "Unable to handle request without params"
+msgstr ""
+
+#: src/Ajax.php:30 src/Ajax.php:34
+msgid "Unable to parse params"
+msgstr ""
+
+#: src/AssetsProvider.php:78
+msgid ""
+"With the output type \"{{viewType}}\", you need to enable the display of "
+"a list of letters. Turn it on?"
+msgstr ""
+
+#: src/Glossary.php:48 template-parts/admin/settings/tab-settings.php:162
+msgid "Glossary"
+msgstr ""
+
+#: src/Maintenance.php:60 src/Maintenance.php:63 src/Maintenance.php:111
+#: vendor/wpshop/wpshop-settings/src/Maintenance.php:89
+#: vendor/wpshop/wpshop-settings/src/Maintenance.php:92
+#: vendor/wpshop/wpshop-settings/src/Maintenance.php:140
+msgid "Unable to check license without activation url"
+msgstr ""
+
+#: src/Maintenance.php:88 src/Maintenance.php:91
+#: vendor/wpshop/wpshop-settings/src/Maintenance.php:117
+#: vendor/wpshop/wpshop-settings/src/Maintenance.php:120
+msgid "Can't get response from license server"
+msgstr ""
+
+#: src/VirtualTax.php:193
+msgid "Replaced by ABC Pagination"
+msgstr ""
+
+#: template-parts/admin/settings.php:58
+msgid "Sorry, you are not allowed to perform actions on this section."
+msgstr ""
+
+#: template-parts/admin/settings.php:68
+msgid "Our Pages:"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:23
+#, php-format
+msgid ""
+"In this section you can customize the appearance for all alphabetical "
+"lists. Almost all settings correspond to similar %s, so you can "
+"customize through them."
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:24
+msgctxt "admin-header-description"
+msgid "CSS variables"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:28
+#, php-format
+msgid ""
+"If you need to style an individual alphabetical lists, you can do so "
+"through the %s. The shortcode settings will replace the settings on this "
+"page."
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:29
+msgctxt "admin-header-description"
+msgid "shortcode attributes"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:43
+msgid "Presets"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:44
+msgid ""
+"Presets are ready-to-use design sets that allow you to set new "
+"appearance settings in 1 click. Attention, old settings will be "
+"overwritten."
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:62
+#: template-parts/admin/settings/tab-settings.php:81
+msgid "Letter list"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:63
+msgid ""
+"Separately, you can configure the block in which the letters are located "
+"and separately the appearance of the letters themselves."
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:89
+msgid "Container with letters"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:92
+msgid "Letter spacing"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:97
+#: template-parts/admin/settings/tab-appearance.php:127
+#: template-parts/admin/settings/tab-appearance.php:293
+msgid "Indents"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:102
+#: template-parts/admin/settings/tab-appearance.php:151
+#: template-parts/admin/settings/tab-appearance.php:322
+msgid "Background color"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:107
+msgid "Letter alignment"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:108
+msgid "start"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:109
+#: template-parts/admin/settings/tab-appearance.php:311
+msgid "center"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:110
+msgid "end"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:111
+msgid "space-evenly"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:112
+msgid "space-around"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:113
+msgid "space-between"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:119
+#: template-parts/admin/settings/tab-appearance.php:234
+#: template-parts/admin/settings/tab-appearance.php:327
+msgid "Rounding"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:124
+#: template-parts/admin/settings/tab-appearance.php:280
+msgid "Letters"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:133
+#: template-parts/admin/settings/tab-appearance.php:317
+msgid "Color"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:141
+#: template-parts/admin/settings/tab-appearance.php:159
+#: template-parts/admin/settings/tab-appearance.php:170
+msgid "Hover"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:175
+msgid "Select effect"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:176
+msgctxt "hover effect"
+msgid "Grow"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:177
+msgctxt "hover effect"
+msgid "Shrink"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:178
+msgctxt "hover effect"
+msgid "Push"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:179
+msgctxt "hover effect"
+msgid "Pop"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:180
+msgctxt "hover effect"
+msgid "Float"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:199
+msgid "Border"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:207
+msgid "solid"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:208
+msgid "dotted"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:209
+msgid "dashed"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:210
+msgid "double"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:224
+#: template-parts/admin/settings/tab-appearance.php:298
+msgid "Font thickness"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:229
+#: template-parts/admin/settings/tab-appearance.php:303
+msgid "Font size"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:239
+msgid "Post list"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:257
+#: template-parts/admin/settings/tab-appearance.php:264
+#: template-parts/admin/settings/tab-appearance.php:271
+msgid "Post title"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:283
+msgid "Width block"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:288
+msgid "Indentation"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:308
+msgid "Text alignment"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:309
+msgid "left"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:310
+msgid "right"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:331
+msgid "Posts"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:334
+msgid "Thumbnail height"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:339
+msgid "Columns in the desktop version"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:349
+msgid "Columns in the mobile version"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:359
+msgid "Column spacing"
+msgstr ""
+
+#: template-parts/admin/settings/tab-appearance.php:363
+msgid "Title font weight"
+msgstr ""
+
+#: template-parts/admin/settings/tab-css.php:22
+msgid ""
+"In this section you can specify any styles you want for the alphabetical "
+"index. Use as a normal CSS editor, starting each rule with a selector. "
+"For example, .abc-pagination { /* your code */ }"
+msgstr ""
+
+#: template-parts/admin/settings/tab-css.php:33
+#, php-format
+msgid ""
+"<strong>We recommend:</strong> see examples of <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener\">CSS variables</a>."
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard-activate.php:20
+#: template-parts/admin/settings/tab-dashboard.php:64
+msgid "License"
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard-activate.php:21
+#, php-format
+msgid ""
+"To activate the plugin, enter the license key that you receive after "
+"payment in the letter or in <a href=\"%s\" target=\"_blank\" "
+"rel=\"noopener\">personal account</a>."
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:27
+msgid "The plugin is successfully installed and ready to work!"
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:29
+msgid "You have succeeded, now you can go to the settings of the plugin."
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:30
+msgid ""
+"The plugin displays the alphabetical index using a shortcode. The "
+"shortcode has various attributes that can change the output of blocks "
+"and posts for output."
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:32
+msgid ""
+"An example of outputting an alphabetical index for a rubric with ID 3: "
+"[abc_pagination cat=\"3\"]"
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:34
+#, php-format
+msgid ""
+"You can read more about the shortcode and all its attributes <a "
+"href=\"%s\" target=\"_blank\" rel=\"noopener\">here</a>."
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:37
+#, php-format
+msgid ""
+"You can change the appearance here in the settings or with <a "
+"href=\"%s\" target=\"_blank\" rel=\"noopener\">CSS variables</a>."
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:39
+msgid ""
+"If you're ready, you can close this window and move on to the settings."
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:49
+msgid "Documentation"
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:50
+msgid ""
+"If you have a question about our product, perhaps the answer is already "
+"in our documentation."
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:56
+msgid "Questions and answers"
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:57
+msgid ""
+"Section of frequently asked questions and answers to them. You can "
+"quickly find the answer to a question."
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:71
+msgid "The license is successfully activated."
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:73
+msgid "The license key is hidden for security purposes."
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:76
+msgid "Personal account"
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:78
+msgid "Are you sure you want to remove the license key?"
+msgstr ""
+
+#: template-parts/admin/settings/tab-dashboard.php:78
+msgid "Remove License"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:22
+msgid "Pages"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:37
+msgid "Post Types"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:56
+msgid ""
+"For the selected post types, the plugin settings will be displayed on "
+"the post editing page."
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:64
+msgid "Replace category and tag content"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:66
+msgid ""
+"Replaces the usual output of posts in a rubric and tags along with "
+"pagination with an alphabetical index. It works if there is the "
+"[abc_pagination] shortcode in the rubric or tag description."
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:73
+msgid "Clear database on the plugin deleting"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:75
+msgid "All data related to the plugin will be deleted from the database."
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:82
+msgid "Settings for the block with the alphabetical list of found letters."
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:90
+msgid "Show letter list"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:97
+msgid "Show the number of entries for each letter"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:100
+msgid "Show Search"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:105
+msgid "Posts list"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:112
+msgid "View type"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:113
+msgid "list"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:114
+msgid "tabs"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:115
+msgid "popup"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:122
+msgid "Show posts limit"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:128
+msgid ""
+"Show the specified number of posts and the \"show more\" link. <code>-1</"
+"code> sets the output to no limit."
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:132
+msgid "Show letter"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:136
+msgid "Show post link"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:140
+msgid "Show post thumbnail"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:144
+msgid "Show post excerpt"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:148
+msgid "Show post content"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:154
+msgid "Use a short name"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:156
+msgid ""
+"In posts, you can set a short name that is used for sorting. With this "
+"option it will also be used in the post cards instead of the full title "
+"of the post."
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:163
+msgid ""
+"A glossary is a glossary of terms with descriptions. It is used to "
+"explain little-known or highly specialized words. Usually both terms and "
+"their descriptions are displayed on the same page."
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:169
+msgid "Enable glossary"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:173
+#, php-format
+msgid ""
+"Copy and paste the shortcode onto the page (more <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener\">about the shortcode</a>)"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:181
+msgid "Enable pages for glossary terms"
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:184
+msgid "By default, no separate pages are created for each glossary term."
+msgstr ""
+
+#: template-parts/admin/settings/tab-settings.php:185
+msgid ""
+"Usually this is not necessary, because the name and description of the "
+"term are displayed on the same page."
+msgstr ""
+
+#: template-parts/post/list.php:112
+msgid "show more"
+msgstr ""
+
+#: template-parts/post/search.php:27
+msgid "Search..."
+msgstr ""
+
+#: vendor/wpshop/wpshop-settings/src/AbstractSettings.php:210
+#: vendor/wpshop/wpshop-settings/src/AbstractSettings.php:214
+msgid "Dashboard"
+msgstr ""
+
+#: vendor/wpshop/wpshop-settings/src/AbstractSettings.php:253
+msgid "You are not allowed to remove the license"
+msgstr ""
+
+#: vendor/wpshop/wpshop-settings/src/SettingsRenderer.php:35
+msgid "Activate"
+msgstr ""
+
+#: vendor/wpshop/wpshop-settings/src/SettingsRenderer.php:445
+msgid "Save"
+msgstr ""
+
+#: vendor/yahnis-elsts/plugin-update-checker/Puc/v4p13/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: vendor/yahnis-elsts/plugin-update-checker/Puc/v4p13/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: vendor/yahnis-elsts/plugin-update-checker/Puc/v4p13/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: vendor/yahnis-elsts/plugin-update-checker/Puc/v4p13/Plugin/Ui.php:214
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: vendor/yahnis-elsts/plugin-update-checker/Puc/v4p13/Plugin/Ui.php:216
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: vendor/yahnis-elsts/plugin-update-checker/Puc/v4p13/Plugin/Ui.php:218
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: vendor/yahnis-elsts/plugin-update-checker/Puc/v4p13/Plugin/Ui.php:224
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: vendor/yahnis-elsts/plugin-update-checker/Puc/v4p13/Vcs/PluginUpdateChecker.php:100
+msgid "There is no changelog available."
+msgstr ""

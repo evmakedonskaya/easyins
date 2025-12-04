@@ -1,0 +1,3974 @@
+=== CSS ANALYSIS - 2025-11-16 10:36:41 ===
+URL: https://easyins.ru/item/professional-yacht-service/
+Page Type: citadela-item
+Total Styles: 60
+
+THEME (7):
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+
+PLUGIN (35):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+
+CORE (7):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+▸ buttons
+  Source: /wp-includes/css/buttons.min.css
+  Dependencies: none
+  Version: none
+
+▸ mediaelement
+  Source: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+  Dependencies: none
+  Version: 4.2.17
+
+▸ wp-mediaelement
+  Source: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+  Dependencies: mediaelement
+  Version: none
+
+▸ media-views
+  Source: /wp-includes/css/media-views.min.css
+  Dependencies: buttons, dashicons, wp-mediaelement
+  Version: none
+
+▸ imgareaselect
+  Source: /wp-includes/js/imgareaselect/imgareaselect.css
+  Dependencies: none
+  Version: 0.9.8
+
+
+OTHER (11):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ wpo_min-header-0
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-87511dad.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-2
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-f5d8ac72.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-10
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-75f11601.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-18
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-4bf91578.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ wpo_min-header-20
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-bad91607.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ core-block-supports
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+
+=== CSS ANALYSIS - 2025-11-16 10:37:47 ===
+URL: https://easyins.ru/item/professional-yacht-service/
+Page Type: citadela-item
+Total Styles: 60
+
+THEME (7):
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+
+PLUGIN (35):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+
+CORE (7):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+▸ buttons
+  Source: /wp-includes/css/buttons.min.css
+  Dependencies: none
+  Version: none
+
+▸ mediaelement
+  Source: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+  Dependencies: none
+  Version: 4.2.17
+
+▸ wp-mediaelement
+  Source: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+  Dependencies: mediaelement
+  Version: none
+
+▸ media-views
+  Source: /wp-includes/css/media-views.min.css
+  Dependencies: buttons, dashicons, wp-mediaelement
+  Version: none
+
+▸ imgareaselect
+  Source: /wp-includes/js/imgareaselect/imgareaselect.css
+  Dependencies: none
+  Version: 0.9.8
+
+
+OTHER (11):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ wpo_min-header-0
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-87511dad.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-2
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-f5d8ac72.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-10
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-75f11601.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-18
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-4bf91578.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ wpo_min-header-20
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-bad91607.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ core-block-supports
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+
+=== CSS ANALYSIS - 2025-11-16 10:39:40 ===
+URL: https://easyins.ru/contact/
+Page Type: page
+Total Styles: 62
+
+THEME (7):
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+
+PLUGIN (36):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+▸ swiper-css
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/swiper/swiper.min.css
+  Dependencies: none
+  Version: 1762605658
+
+
+CORE (7):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+▸ buttons
+  Source: /wp-includes/css/buttons.min.css
+  Dependencies: none
+  Version: none
+
+▸ mediaelement
+  Source: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+  Dependencies: none
+  Version: 4.2.17
+
+▸ wp-mediaelement
+  Source: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+  Dependencies: mediaelement
+  Version: none
+
+▸ media-views
+  Source: /wp-includes/css/media-views.min.css
+  Dependencies: buttons, dashicons, wp-mediaelement
+  Version: none
+
+▸ imgareaselect
+  Source: /wp-includes/js/imgareaselect/imgareaselect.css
+  Dependencies: none
+  Version: 0.9.8
+
+
+OTHER (12):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ citadela-custom-header-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-custom-header-6294.css
+  Dependencies: none
+  Version: 1762707679
+
+▸ wpo_min-header-0
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-87511dad.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-2
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-f5d8ac72.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-10
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-75f11601.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-18
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-4bf91578.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ wpo_min-header-20
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-15d82381.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ core-block-supports
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+
+=== CSS ANALYSIS - 2025-11-16 10:39:47 ===
+URL: https://easyins.ru/
+Page Type: page
+Total Styles: 59
+
+THEME (7):
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+
+PLUGIN (35):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+
+CORE (7):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+▸ buttons
+  Source: /wp-includes/css/buttons.min.css
+  Dependencies: none
+  Version: none
+
+▸ mediaelement
+  Source: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+  Dependencies: none
+  Version: 4.2.17
+
+▸ wp-mediaelement
+  Source: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+  Dependencies: mediaelement
+  Version: none
+
+▸ media-views
+  Source: /wp-includes/css/media-views.min.css
+  Dependencies: buttons, dashicons, wp-mediaelement
+  Version: none
+
+▸ imgareaselect
+  Source: /wp-includes/js/imgareaselect/imgareaselect.css
+  Dependencies: none
+  Version: 0.9.8
+
+
+OTHER (10):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ wpo_min-header-0
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-87511dad.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-2
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-f5d8ac72.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-10
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-75f11601.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-18
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-4bf91578.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ wpo_min-header-20
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-bad91607.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+
+=== CSS ANALYSIS - 2025-11-16 10:39:52 ===
+URL: https://easyins.ru/?page_id=6163
+Page Type: page
+Total Styles: 53
+
+THEME (7):
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+
+PLUGIN (36):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ swiper-css
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/swiper/swiper.min.css
+  Dependencies: none
+  Version: 1762605658
+
+
+CORE (4):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+▸ media-views
+  Source: /wp-includes/css/media-views.min.css
+  Dependencies: buttons, dashicons, wp-mediaelement
+  Version: none
+
+▸ imgareaselect
+  Source: /wp-includes/js/imgareaselect/imgareaselect.css
+  Dependencies: none
+  Version: 0.9.8
+
+
+OTHER (6):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ core-block-supports
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+
+=== CSS ANALYSIS - 2025-11-16 10:39:56 ===
+URL: https://easyins.ru/
+Page Type: page
+Total Styles: 59
+
+THEME (7):
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+
+PLUGIN (35):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+
+CORE (7):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+▸ buttons
+  Source: /wp-includes/css/buttons.min.css
+  Dependencies: none
+  Version: none
+
+▸ mediaelement
+  Source: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+  Dependencies: none
+  Version: 4.2.17
+
+▸ wp-mediaelement
+  Source: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+  Dependencies: mediaelement
+  Version: none
+
+▸ media-views
+  Source: /wp-includes/css/media-views.min.css
+  Dependencies: buttons, dashicons, wp-mediaelement
+  Version: none
+
+▸ imgareaselect
+  Source: /wp-includes/js/imgareaselect/imgareaselect.css
+  Dependencies: none
+  Version: 0.9.8
+
+
+OTHER (10):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ wpo_min-header-0
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-87511dad.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-2
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-f5d8ac72.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-10
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-75f11601.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-18
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-4bf91578.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ wpo_min-header-20
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-bad91607.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+
+=== CSS ANALYSIS - 2025-11-16 10:40:00 ===
+URL: https://easyins.ru/item/le-colonial/
+Page Type: citadela-item
+Total Styles: 55
+
+THEME (7):
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+
+PLUGIN (35):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+
+CORE (2):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+
+OTHER (11):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ wpo_min-header-0
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-87511dad.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-2
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-f5d8ac72.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-5
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-75f11601.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-13
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-4bf91578.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ wpo_min-header-15
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-bad91607.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ core-block-supports
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+
+=== CSS ANALYSIS - 2025-11-16 10:40:04 ===
+URL: https://easyins.ru/item/caravaggio-restaurant/
+Page Type: citadela-item
+Total Styles: 55
+
+THEME (7):
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+
+PLUGIN (35):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+
+CORE (2):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+
+OTHER (11):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ wpo_min-header-0
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-87511dad.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-2
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-f5d8ac72.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-5
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-75f11601.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-13
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-4bf91578.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ wpo_min-header-15
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-bad91607.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ core-block-supports
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+
+=== CSS ANALYSIS - 2025-11-16 10:40:09 ===
+URL: https://easyins.ru/item/caravaggio-restaurant/
+Page Type: citadela-item
+Total Styles: 60
+
+THEME (7):
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+
+PLUGIN (35):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+
+CORE (7):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+▸ buttons
+  Source: /wp-includes/css/buttons.min.css
+  Dependencies: none
+  Version: none
+
+▸ mediaelement
+  Source: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+  Dependencies: none
+  Version: 4.2.17
+
+▸ wp-mediaelement
+  Source: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+  Dependencies: mediaelement
+  Version: none
+
+▸ media-views
+  Source: /wp-includes/css/media-views.min.css
+  Dependencies: buttons, dashicons, wp-mediaelement
+  Version: none
+
+▸ imgareaselect
+  Source: /wp-includes/js/imgareaselect/imgareaselect.css
+  Dependencies: none
+  Version: 0.9.8
+
+
+OTHER (11):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ wpo_min-header-0
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-87511dad.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-2
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-f5d8ac72.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-10
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-75f11601.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-18
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-4bf91578.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ wpo_min-header-20
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-bad91607.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ core-block-supports
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+
+=== CSS ANALYSIS - 2025-11-16 10:40:15 ===
+URL: https://easyins.ru/
+Page Type: page
+Total Styles: 59
+
+THEME (7):
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+
+PLUGIN (35):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+
+CORE (7):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+▸ buttons
+  Source: /wp-includes/css/buttons.min.css
+  Dependencies: none
+  Version: none
+
+▸ mediaelement
+  Source: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+  Dependencies: none
+  Version: 4.2.17
+
+▸ wp-mediaelement
+  Source: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+  Dependencies: mediaelement
+  Version: none
+
+▸ media-views
+  Source: /wp-includes/css/media-views.min.css
+  Dependencies: buttons, dashicons, wp-mediaelement
+  Version: none
+
+▸ imgareaselect
+  Source: /wp-includes/js/imgareaselect/imgareaselect.css
+  Dependencies: none
+  Version: 0.9.8
+
+
+OTHER (10):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ wpo_min-header-0
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-87511dad.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-2
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-f5d8ac72.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-10
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-75f11601.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-18
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-4bf91578.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ wpo_min-header-20
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-bad91607.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+
+=== CSS ANALYSIS - 2025-11-16 10:40:25 ===
+URL: https://easyins.ru/item/fitness-club/
+Page Type: citadela-item
+Total Styles: 60
+
+THEME (7):
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+
+PLUGIN (35):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+
+CORE (7):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+▸ buttons
+  Source: /wp-includes/css/buttons.min.css
+  Dependencies: none
+  Version: none
+
+▸ mediaelement
+  Source: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+  Dependencies: none
+  Version: 4.2.17
+
+▸ wp-mediaelement
+  Source: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+  Dependencies: mediaelement
+  Version: none
+
+▸ media-views
+  Source: /wp-includes/css/media-views.min.css
+  Dependencies: buttons, dashicons, wp-mediaelement
+  Version: none
+
+▸ imgareaselect
+  Source: /wp-includes/js/imgareaselect/imgareaselect.css
+  Dependencies: none
+  Version: 0.9.8
+
+
+OTHER (11):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ wpo_min-header-0
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-87511dad.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-2
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-f5d8ac72.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-10
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-75f11601.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-18
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-4bf91578.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ wpo_min-header-20
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-bad91607.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ core-block-supports
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+
+=== CSS ANALYSIS - 2025-11-16 10:40:59 ===
+URL: https://easyins.ru/
+Page Type: page
+Total Styles: 59
+
+THEME (7):
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+
+PLUGIN (35):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+
+CORE (7):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+▸ buttons
+  Source: /wp-includes/css/buttons.min.css
+  Dependencies: none
+  Version: none
+
+▸ mediaelement
+  Source: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+  Dependencies: none
+  Version: 4.2.17
+
+▸ wp-mediaelement
+  Source: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+  Dependencies: mediaelement
+  Version: none
+
+▸ media-views
+  Source: /wp-includes/css/media-views.min.css
+  Dependencies: buttons, dashicons, wp-mediaelement
+  Version: none
+
+▸ imgareaselect
+  Source: /wp-includes/js/imgareaselect/imgareaselect.css
+  Dependencies: none
+  Version: 0.9.8
+
+
+OTHER (10):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ wpo_min-header-0
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-87511dad.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-2
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-f5d8ac72.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-10
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-75f11601.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-18
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-4bf91578.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ wpo_min-header-20
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-bad91607.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+
+=== CSS ANALYSIS - 2025-11-16 11:21:26 ===
+URL: https://easyins.ru/item/le-colonial/
+Page Type: citadela-item
+Total Styles: 60
+
+THEME (7):
+▸ citadela-base
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/base.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-fontawesome
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/assets/fontawesome/css/all.min.css
+  Dependencies: none
+  Version: 5.8.2
+
+▸ parent-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp/style.css
+  Dependencies: none
+  Version: none
+
+▸ child-style
+  Source: https://easyins.ru/wp-content/themes/citadelawp-child/style.css
+  Dependencies: parent-style
+  Version: 1.3
+
+▸ citadela-reset
+  Source: https://easyins.ru/wp-content/themes/citadelawp/design/css/reset.css
+  Dependencies: none
+  Version: 1762605124
+
+▸ citadela-photoswipe-css
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/photoswipe.css
+  Dependencies: none
+  Version: 4.1.3
+
+▸ citadela-photoswipe-css-default-skin
+  Source: https://easyins.ru/wp-content/themes/citadelawp/citadela-theme/assets/photoswipe/default-skin/default-skin.css
+  Dependencies: none
+  Version: 4.1.3
+
+
+PLUGIN (35):
+▸ seopress-admin-bar
+  Source: https://easyins.ru/wp-content/plugins/wp-seopress/assets/css/seopress-admin-bar.min.css
+  Dependencies: none
+  Version: 9.3.0.4
+
+▸ citadela-item-featured-image-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-featured-image/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-opening-hours/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-details-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-details/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-contact-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-contact-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gpx-download-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gpx-download/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-get-directions-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-get-directions/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-claim-listing-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-claim-listing/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-extension-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-extension/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-gallery-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-gallery/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-item-events-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/item-events/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-form-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-form/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-posts-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/posts-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-default-search-results-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/default-search-results/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-directory-advanced-filters-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/directory-advanced-filters/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-authors-list-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/authors-list/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-author-detail-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/blocks/author-detail/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ citadela-blog-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/blog-posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-posts-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/posts/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-price-table-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/price-table/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-spacer-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/spacer/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-service-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/service/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-responsive-text-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/responsive-text/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-page-title-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/page-title/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-opening-hours-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/opening-hours/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-cluster-block-style
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-pro/assets/blocks/cluster/style.css
+  Dependencies: none
+  Version: 1762605652
+
+▸ citadela-directory-frontend
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/design/css/style.css
+  Dependencies: none
+  Version: 1762605658
+
+▸ wordfenceAJAXcss
+  Source: https://easyins.ru/wp-content/plugins/wordfence/css/wordfenceBox.1762970008.css
+  Dependencies: none
+  Version: 8.1.2
+
+▸ wp-optimize-global
+  Source: https://easyins.ru/wp-content/plugins/wp-optimize-premium/css/wp-optimize-global-4-3-0.min.css
+  Dependencies: none
+  Version: 4.3.0
+
+▸ citadela-leaflet-markercluster-default
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.Default.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-leaflet-markercluster
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/MarkerCluster.css
+  Dependencies: citadela-leaflet-markercluster-default
+  Version: 1.4.1
+
+▸ citadela-leaflet
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet.css
+  Dependencies: citadela-leaflet-markercluster
+  Version: 1.6.0
+
+▸ citadela-leaflet-gesture-handling
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css
+  Dependencies: none
+  Version: 1.4.1
+
+▸ citadela-raty
+  Source: https://easyins.ru/wp-content/plugins/citadelawp-directory/plugin/assets/raty/jquery.raty.css
+  Dependencies: none
+  Version: 2.8.0
+
+
+CORE (7):
+▸ admin-bar
+  Source: /wp-includes/css/admin-bar.min.css
+  Dependencies: dashicons
+  Version: none
+
+▸ wp-block-library
+  Source: /wp-includes/css/dist/block-library/style.min.css
+  Dependencies: none
+  Version: none
+
+▸ buttons
+  Source: /wp-includes/css/buttons.min.css
+  Dependencies: none
+  Version: none
+
+▸ mediaelement
+  Source: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+  Dependencies: none
+  Version: 4.2.17
+
+▸ wp-mediaelement
+  Source: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+  Dependencies: mediaelement
+  Version: none
+
+▸ media-views
+  Source: /wp-includes/css/media-views.min.css
+  Dependencies: buttons, dashicons, wp-mediaelement
+  Version: none
+
+▸ imgareaselect
+  Source: /wp-includes/js/imgareaselect/imgareaselect.css
+  Dependencies: none
+  Version: 0.9.8
+
+
+OTHER (11):
+▸ classic-theme-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ global-styles
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ citadela-theme-general-styles
+  Source: https://easyins.ru/wp-content/uploads/tmp/citadela-theme/citadela-theme-tmp-style.css
+  Dependencies: none
+  Version: 1763209527
+
+▸ wpo_min-header-0
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-87511dad.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-2
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-f5d8ac72.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-10
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-75f11601.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ wpo_min-header-18
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-4bf91578.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ citadela-pro-google-fonts
+  Source: https://fonts.googleapis.com/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&display=swap
+  Dependencies: none
+  Version: none
+
+▸ wpo_min-header-20
+  Source: https://easyins.ru/wp-content/cache/wpo-minify/1763275249/assets/wpo-minify-header-bad91607.min.css
+  Dependencies: none
+  Version: mycoolversion
+
+▸ core-block-supports
+  Source: 
+  Dependencies: none
+  Version: none
+
+▸ core-block-supports-duotone
+  Source: 
+  Dependencies: none
+  Version: none
+
+

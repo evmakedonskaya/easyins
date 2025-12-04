@@ -1,0 +1,70 @@
+/*
+Theme Name: Citadela Child
+Template: citadelawp
+Description: Дочерняя тема для темы Citadela
+Version: 1.0
+Text Domain: citadela-child
+*/
+
+/* 
+ * Все стили родительской темы автоматически подключаются
+ * Добавляйте сюда только кастомные стили для переопределения
+ */
+
+/* ВАШИ КАСТОМНЫЕ СТИЛИ БУДУТ ЗДЕСЬ */
+/*
+ * Подключение шрифтов Font Awesome 6 Free
+ * Путь указан относительно файла style.css дочерней темы
+ * Используем только woff2 — оптимальный формат для современных браузеров
+ * font-display: swap — текст отображается сразу, шрифт подгружается фоном
+ */
+ 
+ /* Переопределение Font Awesome */
+/* Исправление Font Awesome font-display */
+@font-face {
+    font-family: 'Font Awesome 5 Brands';
+    src: url("/wp-content/themes/citadelawp/design/css/assets/fontawesome/webfonts/fa-brands-400.woff2") format("woff2");
+    font-display: swap;
+    unicode-range: U+F000-F8FF;
+}
+
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    src: url("/wp-content/themes/citadelawp/design/css/assets/fontawesome/webfonts/fa-solid-900.woff2") format("woff2");
+    font-display: swap;
+    unicode-range: U+F000-F8FF;
+}
+
+.wp-block-heading {
+    font-family: sans-serif; /* Системный шрифт */
+    font-size: 1.5rem;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* Исправление ошибок для .logo-wrapper */
+.site-branding .logo-wrapper {
+    margin-right: 0 !important; /* Исправление margin-right */
+    visibility: visible !important; /* Исправление visibility */
+    flex-shrink: 0 !important; /* Исправление flex-shrink */
+    max-width: 150px !important; /* Фиксируем ширину */
+    transition: all 0.3s !important; /* Современный transition */
+}
+
+/* Убираем устаревшие префиксы */
+.site-branding .logo-wrapper {
+    -moz-transition: none !important;
+    -webkit-transition: none !important;
+}
+
+/* Адаптивные стили для мобильных */
+@media (max-width: 768px) {
+    .mobile-screen-width .site-header.logo-align-left-mobile .site-branding .logo-wrapper {
+        margin-right: 2.4vw !important;
+        max-width: 150px !important;
+    }
+}

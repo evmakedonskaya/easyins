@@ -1,0 +1,119 @@
+[2025-10-29 15:27:56 : INFO] - Re_Smush_It_Task server status: Online 
+[2025-10-29 15:27:57 : INFO] - A total of 12 tasks of type smush found and will be processed in this iteration 
+[2025-10-29 15:27:57 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-10-29 15:27:57 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-10-29 15:27:57 : INFO] - Processing task with ID : 2390, and type 'smush' 
+[2025-10-29 15:27:57 : INFO] - Re_Smush_It_Task - Attachment ID : 6162, Started on : October 29, 2025 03:27:57 
+[2025-10-29 15:27:57 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-10-29 15:27:59 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-10-29 15:28:04 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins_ru/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 100.24 KB to 73.05 KB, saving 27.12 percent, using WP-Optimize 
+[2025-10-29 15:28:04 : INFO] - Completed processing task with ID : 2390, and type 'smush' 
+[2025-10-29 15:28:04 : INFO] - Processing task with ID : 2391, and type 'smush' 
+[2025-10-29 15:28:04 : INFO] - Re_Smush_It_Task - Attachment ID : 6178, Started on : October 29, 2025 03:27:57 
+[2025-10-29 15:28:04 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-10-29 15:28:05 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-10-29 15:28:09 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins_ru/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 73.05 KB to 73.04 KB, saving 0.02 percent, using WP-Optimize 
+[2025-10-29 15:28:09 : INFO] - Completed processing task with ID : 2391, and type 'smush' 
+[2025-10-29 15:28:09 : INFO] - Processing task with ID : 2392, and type 'smush' 
+[2025-10-29 15:28:09 : INFO] - Re_Smush_It_Task - Attachment ID : 6256, Started on : October 29, 2025 03:27:57 
+[2025-10-29 15:28:09 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-10-29 15:28:10 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-10-29 15:28:14 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins_ru/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 73.04 KB to 73.04 KB, saving 0 percent, using WP-Optimize 
+[2025-10-29 15:28:14 : INFO] - Completed processing task with ID : 2392, and type 'smush' 
+[2025-10-29 15:28:14 : INFO] - Processing task with ID : 2393, and type 'smush' 
+[2025-10-29 15:28:14 : INFO] - Re_Smush_It_Task - Attachment ID : 6300, Started on : October 29, 2025 03:27:57 
+[2025-10-29 15:28:14 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-10-29 15:28:15 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-10-29 15:28:19 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins_ru/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 73.04 KB to 73.04 KB, saving 0 percent, using WP-Optimize 
+[2025-10-29 15:28:19 : INFO] - Completed processing task with ID : 2393, and type 'smush' 
+[2025-10-29 15:28:19 : INFO] - Processing task with ID : 2394, and type 'smush' 
+[2025-10-29 15:28:19 : INFO] - Re_Smush_It_Task - Attachment ID : 6305, Started on : October 29, 2025 03:27:57 
+[2025-10-29 15:28:19 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-10-29 15:28:20 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-10-29 15:28:24 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins_ru/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 73.04 KB to 73.04 KB, saving 0 percent, using WP-Optimize 
+[2025-10-29 15:28:24 : INFO] - Completed processing task with ID : 2394, and type 'smush' 
+[2025-10-29 15:28:24 : INFO] - Processing task with ID : 2395, and type 'smush' 
+[2025-10-29 15:28:24 : INFO] - Re_Smush_It_Task - Attachment ID : 6306, Started on : October 29, 2025 03:27:57 
+[2025-10-29 15:28:24 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-10-29 15:28:25 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-10-29 15:28:29 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins_ru/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 73.04 KB to 73.04 KB, saving 0 percent, using WP-Optimize 
+[2025-10-29 15:28:29 : INFO] - Completed processing task with ID : 2395, and type 'smush' 
+[2025-10-29 15:28:29 : INFO] - Processing task with ID : 2396, and type 'smush' 
+[2025-10-29 15:28:29 : INFO] - Re_Smush_It_Task - Attachment ID : 6329, Started on : October 29, 2025 03:27:57 
+[2025-10-29 15:28:29 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-10-29 15:28:30 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-10-29 15:28:34 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins_ru/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 73.04 KB to 73.04 KB, saving 0 percent, using WP-Optimize 
+[2025-10-29 15:28:34 : INFO] - Completed processing task with ID : 2396, and type 'smush' 
+[2025-10-29 15:28:34 : INFO] - Processing task with ID : 2397, and type 'smush' 
+[2025-10-29 15:28:34 : INFO] - Re_Smush_It_Task - Attachment ID : 6482, Started on : October 29, 2025 03:27:57 
+[2025-10-29 15:28:34 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-10-29 15:28:35 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-10-29 15:28:40 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins_ru/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 73.04 KB to 73.04 KB, saving 0 percent, using WP-Optimize 
+[2025-10-29 15:28:40 : INFO] - Completed processing task with ID : 2397, and type 'smush' 
+[2025-10-29 15:28:40 : INFO] - Processing task with ID : 2398, and type 'smush' 
+[2025-10-29 15:28:40 : INFO] - Re_Smush_It_Task - Attachment ID : 6996, Started on : October 29, 2025 03:27:57 
+[2025-10-29 15:28:40 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-10-29 15:28:41 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-10-29 15:28:45 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins_ru/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 73.04 KB to 73.04 KB, saving 0 percent, using WP-Optimize 
+[2025-10-29 15:28:45 : INFO] - Completed processing task with ID : 2398, and type 'smush' 
+[2025-10-29 15:28:45 : INFO] - Processing task with ID : 2399, and type 'smush' 
+[2025-10-29 15:28:45 : INFO] - Re_Smush_It_Task - Attachment ID : 6997, Started on : October 29, 2025 03:27:57 
+[2025-10-29 15:28:45 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-10-29 15:28:46 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-10-29 15:28:50 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins_ru/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 73.04 KB to 73.04 KB, saving 0 percent, using WP-Optimize 
+[2025-10-29 15:28:50 : INFO] - Completed processing task with ID : 2399, and type 'smush' 
+[2025-10-29 15:28:50 : INFO] - Processing task with ID : 2400, and type 'smush' 
+[2025-10-29 15:28:50 : INFO] - Re_Smush_It_Task - Attachment ID : 6999, Started on : October 29, 2025 03:27:57 
+[2025-10-29 15:28:50 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-10-29 15:28:51 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-10-29 15:28:55 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins_ru/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 73.04 KB to 73.04 KB, saving 0 percent, using WP-Optimize 
+[2025-10-29 15:28:55 : INFO] - Completed processing task with ID : 2400, and type 'smush' 
+[2025-10-29 15:28:55 : INFO] - Processing task with ID : 2401, and type 'smush' 
+[2025-10-29 15:28:55 : INFO] - Re_Smush_It_Task - Attachment ID : 7000, Started on : October 29, 2025 03:27:57 
+[2025-10-29 15:28:55 : INFO] - File: woocommerce-placeholder.png, Compression quality: 92 
+[2025-10-29 15:28:56 : INFO] - Backing up the original image - woocommerce-placeholder-updraft-pre-smush-original.png 
+[2025-10-29 15:28:58 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-10-29 15:28:58 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2025-10-29 15:28:58 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2025-10-29 15:28:58 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2025-10-29 15:28:58 : INFO] - Cleaning up tasks of type (smush). A total of 11 tasks will be deleted. 
+[2025-10-29 15:29:00 : INFO] - Successfully optimized the image - /home/u/unkiller/easyins_ru/public_html/wp-content/uploads/woocommerce-placeholder.png.The file was compressed from 73.04 KB to 73.04 KB, saving 0 percent, using WP-Optimize 
+[2025-10-29 15:29:00 : INFO] - Completed processing task with ID : 2401, and type 'smush' 
+[2025-10-29 15:29:00 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-10-29 15:29:00 : INFO] - Successfully processed the queue (smush). 12 tasks were processed out of 12. 
+[2025-10-29 15:29:00 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2025-10-29 15:29:00 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2025-10-29 17:29:02 : INFO] - Pruning the smush log file 
+[2025-11-05 19:44:01 : INFO] - Re_Smush_It_Task with attachment ID : 7653, auto created on : November 05, 2025 07:44:01 
+[2025-11-05 19:49:05 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-11-05 19:49:05 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2025-11-05 19:49:05 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2025-11-05 19:49:05 : INFO] - Processing task with ID : 2402, and type 'smush' 
+[2025-11-05 19:49:05 : INFO] - Re_Smush_It_Task with attachment ID : 7653, auto created on : November 05, 2025 07:44:01 
+[2025-11-05 19:49:05 : INFO] - File: Страхование-пациентов.jpg, Compression quality: 92 
+[2025-11-05 19:59:49 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-11-05 19:59:49 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-05 19:59:49 : INFO] - Processing task with ID : 2402, and type 'smush' 
+[2025-11-05 19:59:49 : INFO] - Re_Smush_It_Task with attachment ID : 7653, auto created on : November 05, 2025 07:44:01 
+[2025-11-05 19:59:49 : INFO] - File: Страхование-пациентов.jpg, Compression quality: 92 
+[2025-11-05 20:09:54 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-11-05 20:09:54 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-05 20:09:54 : INFO] - Processing task with ID : 2402, and type 'smush' 
+[2025-11-05 20:09:54 : INFO] - Re_Smush_It_Task with attachment ID : 7653, auto created on : November 05, 2025 07:44:01 
+[2025-11-05 20:09:54 : INFO] - File: Страхование-пациентов.jpg, Compression quality: 92 
+[2025-11-05 20:19:57 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-11-05 20:19:57 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-05 20:19:57 : INFO] - Processing task with ID : 2402, and type 'smush' 
+[2025-11-05 20:19:57 : INFO] - Re_Smush_It_Task with attachment ID : 7653, auto created on : November 05, 2025 07:44:01 
+[2025-11-05 20:19:57 : INFO] - File: Страхование-пациентов.jpg, Compression quality: 92 
+[2025-11-05 20:30:11 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-11-05 20:30:11 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-05 20:30:11 : INFO] - Processing task with ID : 2402, and type 'smush' 
+[2025-11-05 20:30:11 : INFO] - Re_Smush_It_Task with attachment ID : 7653, auto created on : November 05, 2025 07:44:01 
+[2025-11-05 20:30:11 : INFO] - File: Страхование-пациентов.jpg, Compression quality: 92 
+[2025-11-05 20:41:04 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2025-11-05 20:41:04 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2025-11-05 20:41:04 : INFO] - Task with ID 2402 and type (smush) failed with error code max_attempts_exceeded - Maximum attempts (5) exceeded for task 
+[2025-11-05 20:41:04 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2025-11-05 20:41:04 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2025-11-05 20:41:04 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 

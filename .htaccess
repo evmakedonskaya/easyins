@@ -1,0 +1,101 @@
+# BEGIN LSCACHE
+# END LSCACHE
+# BEGIN NON_LSCACHE
+# END NON_LSCACHE
+<IfModule mod_headers.c>
+    <FilesMatch "\.(jpg|jpeg|png|webp|css|js|woff2)$">
+        Header set Cache-Control "max-age=15768000, public"
+    </FilesMatch>
+</IfModule>
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType text/css "access plus 6 months"
+    ExpiresByType application/javascript "access plus 6 months"
+    ExpiresByType font/woff2 "access plus 1 year"
+</IfModule>
+
+
+# 2. Запрет доступа к .user.ini (с проверкой модуля)
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_URI} ^/?\.user\.ini$
+    RewriteRule .* - [F,L,NC]
+</IfModule>
+
+<IfModule !mod_rewrite.c>
+    <Files ".user.ini">
+        <IfModule mod_authz_core.c>
+            Require all denied
+        </IfModule>
+        <IfModule !mod_authz_core.c>
+            Order deny,allow
+            Deny from all
+        </IfModule>
+    </Files>
+</IfModule>
+
+# 3. Перенаправление HTTP → HTTPS
+RewriteEngine On
+SetEnvIf X-Forwarded-Proto https SERVER_PORT=443
+SetEnvIf X-Forwarded-Proto https HTTPS=on
+
+RewriteCond %{HTTP_HOST} !=localhost [NC]
+RewriteCond %{HTTP_HOST} !=127.0.0.1 [NC]
+RewriteCond %{SERVER_PORT} !=443
+RewriteCond %{HTTP:X-Forwarded-Proto} !https [NC]
+RewriteCond %{HTTP:HTTPS} !=on [NC]
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+# Использование механизма HSTS
+Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+
+
+# 4. Запрет доступа к критическим файлам
+<FilesMatch "^(wp-config\.php|xmlrpc\.php|\.htaccess|readme\.html|license\.txt|error_log)$">
+    Require all denied
+</FilesMatch>
+
+# 5. Защита папок (отключение листинга, CGI, SSI)
+<IfModule mod_autoindex.c>
+    Options -Indexes -ExecCGI -Includes
+</IfModule>
+
+# 6. Защита от кликджекинга
+<IfModule mod_headers.c>
+    Header always append X-Frame-Options DENY
+    Header set X-Content-Type-Options nosniff
+    Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+# 7. Ограничение методов HTTP (PUT, DELETE и др.)
+<LimitExcept GET HEAD POST>
+    Require all denied
+</LimitExcept>
+
+# 8. Блокировка доступа к логам и резервным копиям
+<FilesMatch "\.(log|sql|zip|gz|bak|backup)$">
+    Require all denied
+</FilesMatch>
+
+
+# 9. Стандартные правила WordPress (не изменять!)
+# BEGIN WordPress
+# Директивы (строки) между `BEGIN WordPress` и `END WordPress`
+# созданы автоматически и подлежат изменению только через фильтры WordPress.
+# Сделанные вручную изменения между этими маркерами будут перезаписаны.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
