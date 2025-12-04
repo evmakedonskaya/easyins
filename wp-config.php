@@ -21,9 +21,9 @@ define('LOGGED_IN_SALT',   'WY/hIH3[?)4NHpZZ~?oFaiU}qRnrm&:V|(HQ+X7K1mdM9Am|xt}q
 define('NONCE_SALT',       'pn24KmzVH<iW9|>@[|zVrgK703/W}s^H?a?8CF.$)nkGC3w>(Yj)-o]I2 G p#E3');
 $table_prefix = 'wp_';
 // Debugging settings (ОТКЛЮЧЕНО для продакшена)
-define('WP_DEBUG', false);
-define('WP_DEBUG_LOG', false);
-define('WP_DEBUG_DISPLAY', false);
+define('WP_DEBUG', true);
+define('WP_DEBUG_LOG', true);
+define('WP_DEBUG_DISPLAY', true);
 @ini_set('display_errors', 0);
 // Performance optimizations
 define('WP_MEMORY_LIMIT', '128M');
